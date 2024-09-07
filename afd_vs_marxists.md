@@ -1,3 +1,5 @@
+<img src="wall_with_rainbow_grafitis.png" alt="Berlin Wall with rainbow grafitis" width = "50%"/>
+
 # The AfD voters vs the Marxists
 
 September of 2024, the AfD has won and every person to the left of it is wondering how is this possible. Mainstream media reflects that shock: journalists in Deutsche Welle qualify the outcome as East Germans' backwardness, suggesting they still struggle to grasp democracy and progressive concepts such as environmentalism and inclusivity.
