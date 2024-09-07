@@ -1,4 +1,4 @@
-<img src="wall_with_rainbow_grafitis.png" alt="Berlin Wall with rainbow grafitis" width = "50%"/>
+<img src="wall_with_rainbow_grafitis.png" alt="Berlin Wall with rainbow grafitis"/>
 
 # The AfD voters vs the Marxists
 
